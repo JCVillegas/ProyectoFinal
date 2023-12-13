@@ -1,6 +1,5 @@
 import React from "react";
 import  Nav  from "./Nav";
-import ColumnaJava from "../componentes/ColumnaJava";
 import AcordeonPython from "../componentes/AcordeonPython";
 import Footer from "../componentes/Footer";
 

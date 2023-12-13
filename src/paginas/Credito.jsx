@@ -1,5 +1,4 @@
 import Nav from "./Nav";
-import Contact from "../componentes/Contact";
 import Footer from "../componentes/Footer";
 
 
